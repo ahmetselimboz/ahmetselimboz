@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Selim</h1>
 <h3 align="center">I am a computer engineering student who loves to develop, see, research, learn, explore and also defines himself as a backend developer.</h3>
 
-- 🌱 I’m currently learning **.Net Core 8, PostgreSQL**
-
 - 👨‍💻 All of my projects, my experiences, my articles are available at [www.ahmetselimboz.com.tr](https://ahmetselimboz.com.tr)
 
 - 💬 Ask me about **HTML, CSS, Javascript, NodeJS, MongoDB**
