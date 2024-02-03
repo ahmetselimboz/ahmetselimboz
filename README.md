@@ -5,13 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [www.ahmetselimboz.com.tr](https://ahmetselimboz.com.tr)
 
-- 📝 I regularly write articles on [https://ahmetselimboz.com.tr](https://ahmetselimboz.com.tr)
+- 📝 I regularly write articles on [www.ahmetselimboz.com.tr](https://ahmetselimboz.com.tr)
 
 - 💬 Ask me about **HTML, CSS, Javascript, NodeJS, MongoDB**
 
 - 📫 How to reach me **ahmetselimbozz@gmail.com**
 
-- 📄 Know about my experiences [https://ahmetselimboz.com.tr](https://ahmetselimboz.com.tr)
+- 📄 Know about my experiences [www.ahmetselimboz.com.tr](https://ahmetselimboz.com.tr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
