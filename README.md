@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects, my experiences, my articles are available at [www.ahmetselimboz.com.tr](https://ahmetselimboz.com.tr)
 
-- 💬 Ask me about **HTML, CSS, Javascript, NodeJS, MongoDB**
+- 💬 Ask me about **HTML, CSS, Javascript, NodeJS, MongoDB, Docker, Redis, Apache Kafka, RabbitMQ, AWS**
 
 - 📫 How to reach me **ahmetselimbozz@gmail.com**
 
