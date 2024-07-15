@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects, my experiences, my articles are available at [www.ahmetselimboz.com.tr](https://ahmetselimboz.com.tr)
 
-- 💬 Ask me about **VueJS, NodeJS, MongoDB, Docker, Redis, Apache Kafka, RabbitMQ, AWS, Caprover**
+- 💬 Ask me about **ReactJS, VueJS, NodeJS, MongoDB, Docker, Redis, Apache Kafka, RabbitMQ, AWS, Caprover**
 
 - 📫 How to reach me **ahmetselimbozz@gmail.com**
 
