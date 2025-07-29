@@ -2,7 +2,7 @@
 <h3 align="center">I am a computer engineering student who loves to develop, see, research, learn, explore and also defines himself as a backend developer.</h3>
 <br/>
 
-- 👨‍💻 All of my projects, my experiences, my articles are available at [www.ahmetselimboz.com.tr](https://ahmetselimboz.com)
+- 👨‍💻 All of my projects, my experiences, my articles are available at [www.ahmetselimboz.com](https://ahmetselimboz.com)
 
 - 💬 Ask me about **Javascript, Typescript, ReactJS, NextJS, VueJS, NodeJS, ExpressJS, MongoDB, Docker, Redis, Apache Kafka, RabbitMQ, AWS, Linux, Caprover**
 
