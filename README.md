@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Selim</h1>
 <h5 align="center">I’m a Full-Stack Web Developer focused on building scalable, production-ready web applications and taking ownership of products from end to end — from architecture and development to deployment and maintenance.
 
-My primary backend stack includes PHP with Laravel, where I build clean MVC architectures, develop RESTful APIs, implement authentication and authorization, and manage complex business logic. I work with both relational and non-relational databases, mainly MySQL, PostgreSQL, and MongoDB, focusing on performance, data integrity, and scalability.
+My primary backend stack NodeJS, where I build clean MVC architectures, develop RESTful APIs, implement authentication and authorization, and manage complex business logic. I work with both relational and non-relational databases, mainly MySQL, PostgreSQL, and MongoDB, focusing on performance, data integrity, and scalability.
 
 On the frontend side, I develop responsive and maintainable interfaces using JavaScript and TypeScript, working with modern frameworks such as Vue.js and React alongside HTML, CSS, and component-based UI patterns. I ensure seamless communication between frontend and backend systems.
 
